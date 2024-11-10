@@ -1,9 +1,13 @@
+body{
+  background: linear-gradient(130deg, rgb(232, 227, 227), rgb(83, 83, 103));
+
+}
+
 .container{
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 1rem ;
-  background: linear-gradient(130deg, rgb(232, 227, 227), rgb(83, 83, 103));
   border-radius: 1rem;
 }
 
