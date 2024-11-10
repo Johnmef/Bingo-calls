@@ -1,4 +1,10 @@
 /* styles.css */
+
+body {
+  background: linear-gradient(130deg, rgb(232, 227, 227), rgb(167, 167, 190));
+
+}
+
 .outer-container {
   font-family: Arial, sans-serif;
   display: flex;
@@ -6,7 +12,6 @@
   align-items: center;
   height: 90vh;
   margin: 0;
-  background: linear-gradient(130deg, rgb(232, 227, 227), rgb(167, 167, 190));
   border-radius: 1rem
 }
 
